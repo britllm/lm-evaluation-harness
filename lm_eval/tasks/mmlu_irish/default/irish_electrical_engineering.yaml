@@ -1,0 +1,8 @@
+"dataset_name": "electrical_engineering"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin innealtóireacht\
+  \ leictreach.\n\n"
+"group": "mmlu_irish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_electrical_engineering"
+"task_alias": "irish electrical engineering"

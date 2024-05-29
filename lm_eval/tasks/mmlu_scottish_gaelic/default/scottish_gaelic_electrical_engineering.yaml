@@ -1,0 +1,8 @@
+"dataset_name": "electrical_engineering"
+"description": "Tha na leanas nan ceistean ioma-roghainn (le freagairtean) mu innleadaireachd\
+  \ dealanach.\n\n"
+"group": "mmlu_scottish_gaelic_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_gaelic_electrical_engineering"
+"task_alias": "scottish_gaelic electrical engineering"

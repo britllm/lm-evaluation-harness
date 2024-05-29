@@ -1,0 +1,8 @@
+"dataset_name": "medical_genetics"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin géineolaíocht\
+  \ leighis.\n\n"
+"group": "mmlu_irish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_medical_genetics"
+"task_alias": "irish medical genetics"

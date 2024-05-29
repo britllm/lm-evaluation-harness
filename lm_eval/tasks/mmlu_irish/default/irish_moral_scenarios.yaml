@@ -1,0 +1,8 @@
+"dataset_name": "moral_scenarios"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin cásanna mhórálta.\n\
+  \n"
+"group": "mmlu_irish_humanities"
+"group_alias": "humanities"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_moral_scenarios"
+"task_alias": "irish moral scenarios"

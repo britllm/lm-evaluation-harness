@@ -1,0 +1,8 @@
+"dataset_name": "anatomy"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am anatomeg.\n\
+  \n"
+"group": "mmlu_welsh_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_anatomy"
+"task_alias": "welsh anatomy"

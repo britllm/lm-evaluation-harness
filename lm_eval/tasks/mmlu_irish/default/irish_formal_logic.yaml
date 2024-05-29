@@ -1,0 +1,8 @@
+"dataset_name": "formal_logic"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin loighic fhoirmiúil.\n\
+  \n"
+"group": "mmlu_irish_humanities"
+"group_alias": "humanities"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_formal_logic"
+"task_alias": "irish formal logic"

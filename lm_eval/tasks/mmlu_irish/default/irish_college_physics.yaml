@@ -1,0 +1,8 @@
+"dataset_name": "college_physics"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin fisic coláiste.\n\
+  \n"
+"group": "mmlu_irish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_college_physics"
+"task_alias": "irish college physics"

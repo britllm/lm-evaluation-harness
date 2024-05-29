@@ -1,0 +1,8 @@
+"dataset_name": "high_school_biology"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am bioleg ysgol\
+  \ uwchradd.\n\n"
+"group": "mmlu_welsh_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_high_school_biology"
+"task_alias": "welsh high school biology"

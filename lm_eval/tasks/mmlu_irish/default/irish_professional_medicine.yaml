@@ -1,0 +1,8 @@
+"dataset_name": "professional_medicine"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin leigheas gairmiúil.\n\
+  \n"
+"group": "mmlu_irish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_professional_medicine"
+"task_alias": "irish professional medicine"

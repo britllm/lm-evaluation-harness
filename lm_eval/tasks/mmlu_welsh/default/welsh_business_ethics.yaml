@@ -1,0 +1,8 @@
+"dataset_name": "business_ethics"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am moeseg busnes.\n\
+  \n"
+"group": "mmlu_welsh_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_business_ethics"
+"task_alias": "welsh business ethics"

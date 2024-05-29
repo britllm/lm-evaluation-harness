@@ -1,0 +1,8 @@
+"dataset_name": "high_school_macroeconomics"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin macraeacnamaíocht\
+  \ ardteist.\n\n"
+"group": "mmlu_irish_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_high_school_macroeconomics"
+"task_alias": "irish high school macroeconomics"

@@ -1,0 +1,8 @@
+"dataset_name": "computer_security"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin slándáil ríomhaireachta.\n\
+  \n"
+"group": "mmlu_irish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_computer_security"
+"task_alias": "irish computer security"

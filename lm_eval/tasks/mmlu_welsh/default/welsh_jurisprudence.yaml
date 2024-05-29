@@ -1,0 +1,8 @@
+"dataset_name": "jurisprudence"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am cyfraith.\n\
+  \n"
+"group": "mmlu_welsh_humanities"
+"group_alias": "humanities"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_jurisprudence"
+"task_alias": "welsh jurisprudence"

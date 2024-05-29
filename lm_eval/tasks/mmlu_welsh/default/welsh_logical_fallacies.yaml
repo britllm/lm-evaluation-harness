@@ -1,0 +1,8 @@
+"dataset_name": "logical_fallacies"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am gwallau\
+  \ rhesymegol.\n\n"
+"group": "mmlu_welsh_humanities"
+"group_alias": "humanities"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_logical_fallacies"
+"task_alias": "welsh logical fallacies"

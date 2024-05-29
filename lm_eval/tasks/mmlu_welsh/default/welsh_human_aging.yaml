@@ -1,0 +1,8 @@
+"dataset_name": "human_aging"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am heneiddio\
+  \ dynol.\n\n"
+"group": "mmlu_welsh_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_human_aging"
+"task_alias": "welsh human aging"

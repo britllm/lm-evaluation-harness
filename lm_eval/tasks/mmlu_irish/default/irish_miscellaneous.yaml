@@ -1,0 +1,7 @@
+"dataset_name": "miscellaneous"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin eile.\n\n"
+"group": "mmlu_irish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_miscellaneous"
+"task_alias": "irish miscellaneous"

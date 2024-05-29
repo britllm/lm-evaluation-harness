@@ -1,0 +1,8 @@
+"dataset_name": "high_school_macroeconomics"
+"description": "Tha na leanas nan ceistean ioma-roghainn (le freagairtean) mu macroeaconamas\
+  \ àrd-sgoil.\n\n"
+"group": "mmlu_scottish_gaelic_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_gaelic_high_school_macroeconomics"
+"task_alias": "scottish_gaelic high school macroeconomics"

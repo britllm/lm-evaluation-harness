@@ -1,0 +1,8 @@
+"dataset_name": "medical_genetics"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am geneteg\
+  \ feddygol.\n\n"
+"group": "mmlu_welsh_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_medical_genetics"
+"task_alias": "welsh medical genetics"
