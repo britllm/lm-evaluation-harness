@@ -1,0 +1,8 @@
+"dataset_name": "business_ethics"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin eitic gnó.\n\
+  \n"
+"group": "mmlu_irish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_business_ethics"
+"task_alias": "irish business ethics"

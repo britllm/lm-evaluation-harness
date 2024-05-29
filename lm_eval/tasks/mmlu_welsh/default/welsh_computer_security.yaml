@@ -1,0 +1,8 @@
+"dataset_name": "computer_security"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am diogelwch\
+  \ cyfrifiadurol.\n\n"
+"group": "mmlu_welsh_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_computer_security"
+"task_alias": "welsh computer security"

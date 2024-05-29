@@ -1,0 +1,8 @@
+"dataset_name": "high_school_biology"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin bitheolaíocht\
+  \ ardteist.\n\n"
+"group": "mmlu_irish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_high_school_biology"
+"task_alias": "irish high school biology"

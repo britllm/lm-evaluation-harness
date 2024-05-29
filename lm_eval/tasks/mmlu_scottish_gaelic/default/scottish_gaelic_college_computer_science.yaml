@@ -1,0 +1,8 @@
+"dataset_name": "college_computer_science"
+"description": "Tha na leanas nan ceistean ioma-roghainn (le freagairtean) mu saidheans\
+  \ coimpiutaireachd colaiste.\n\n"
+"group": "mmlu_scottish_gaelic_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_gaelic_college_computer_science"
+"task_alias": "scottish_gaelic college computer science"

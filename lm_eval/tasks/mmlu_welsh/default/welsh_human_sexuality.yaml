@@ -1,0 +1,8 @@
+"dataset_name": "human_sexuality"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am rhywioldeb\
+  \ dynol.\n\n"
+"group": "mmlu_welsh_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_human_sexuality"
+"task_alias": "welsh human sexuality"

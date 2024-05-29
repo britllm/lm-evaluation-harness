@@ -1,0 +1,8 @@
+"dataset_name": "formal_logic"
+"description": "Tha na leanas nan ceistean ioma-roghainn (le freagairtean) mu loidsig\
+  \ foirmeil.\n\n"
+"group": "mmlu_scottish_gaelic_humanities"
+"group_alias": "humanities"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_gaelic_formal_logic"
+"task_alias": "scottish_gaelic formal logic"

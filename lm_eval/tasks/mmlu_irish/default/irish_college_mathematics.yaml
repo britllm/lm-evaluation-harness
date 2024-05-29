@@ -1,0 +1,8 @@
+"dataset_name": "college_mathematics"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin mata coláiste.\n\
+  \n"
+"group": "mmlu_irish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_college_mathematics"
+"task_alias": "irish college mathematics"

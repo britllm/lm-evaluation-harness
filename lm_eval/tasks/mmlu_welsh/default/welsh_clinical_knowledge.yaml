@@ -1,0 +1,8 @@
+"dataset_name": "clinical_knowledge"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am gwybodaeth\
+  \ glinigol.\n\n"
+"group": "mmlu_welsh_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_clinical_knowledge"
+"task_alias": "welsh clinical knowledge"

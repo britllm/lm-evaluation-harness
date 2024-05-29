@@ -1,0 +1,8 @@
+"dataset_name": "anatomy"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin anatamaíocht.\n\
+  \n"
+"group": "mmlu_irish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_anatomy"
+"task_alias": "irish anatomy"

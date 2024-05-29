@@ -1,0 +1,8 @@
+"dataset_name": "moral_scenarios"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am senarios\
+  \ moesol.\n\n"
+"group": "mmlu_welsh_humanities"
+"group_alias": "humanities"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_moral_scenarios"
+"task_alias": "welsh moral scenarios"

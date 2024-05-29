@@ -1,0 +1,8 @@
+"dataset_name": "college_chemistry"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am cemeg coleg.\n\
+  \n"
+"group": "mmlu_welsh_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_college_chemistry"
+"task_alias": "welsh college chemistry"

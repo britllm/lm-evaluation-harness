@@ -1,0 +1,8 @@
+"dataset_name": "formal_logic"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am rhesymeg\
+  \ fformiol.\n\n"
+"group": "mmlu_welsh_humanities"
+"group_alias": "humanities"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_formal_logic"
+"task_alias": "welsh formal logic"

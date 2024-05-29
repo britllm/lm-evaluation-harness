@@ -1,0 +1,8 @@
+"dataset_name": "human_sexuality"
+"description": "Tha na leanas nan ceistean ioma-roghainn (le freagairtean) mu gnè\
+  \ daonna.\n\n"
+"group": "mmlu_scottish_gaelic_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_gaelic_human_sexuality"
+"task_alias": "scottish_gaelic human sexuality"

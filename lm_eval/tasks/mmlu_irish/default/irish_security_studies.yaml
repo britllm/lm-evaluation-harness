@@ -1,0 +1,8 @@
+"dataset_name": "security_studies"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin staidéir ar\
+  \ shlándáil.\n\n"
+"group": "mmlu_irish_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_security_studies"
+"task_alias": "irish security studies"

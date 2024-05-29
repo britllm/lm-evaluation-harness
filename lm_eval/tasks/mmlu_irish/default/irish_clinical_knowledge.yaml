@@ -1,0 +1,8 @@
+"dataset_name": "clinical_knowledge"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin eolas cliniciúil.\n\
+  \n"
+"group": "mmlu_irish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_clinical_knowledge"
+"task_alias": "irish clinical knowledge"

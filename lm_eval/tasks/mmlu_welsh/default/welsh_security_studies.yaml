@@ -1,0 +1,8 @@
+"dataset_name": "security_studies"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am astudiaethau\
+  \ diogelwch.\n\n"
+"group": "mmlu_welsh_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_security_studies"
+"task_alias": "welsh security studies"
