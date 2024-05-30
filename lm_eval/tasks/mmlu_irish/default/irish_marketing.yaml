@@ -1,0 +1,8 @@
+"dataset_name": "marketing"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin margaíocht.\n\
+  \n"
+"group": "mmlu_irish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_marketing"
+"task_alias": "irish marketing"

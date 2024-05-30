@@ -1,0 +1,8 @@
+"dataset_name": "machine_learning"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin meaisínfhoghlaim.\n\
+  \n"
+"group": "mmlu_irish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_machine_learning"
+"task_alias": "irish machine learning"

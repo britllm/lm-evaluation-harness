@@ -1,0 +1,8 @@
+"dataset_name": "conceptual_physics"
+"description": "Tha na leanas nan ceistean ioma-roghainn (le freagairtean) mu fiosaig\
+  \ bheachdail.\n\n"
+"group": "mmlu_scottish_gaelic_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_gaelic_conceptual_physics"
+"task_alias": "scottish_gaelic conceptual physics"

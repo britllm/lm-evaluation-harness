@@ -1,0 +1,8 @@
+"dataset_name": "philosophy"
+"description": "Tha na leanas nan ceistean ioma-roghainn (le freagairtean) mu feallsanachd.\n\
+  \n"
+"group": "mmlu_scottish_gaelic_humanities"
+"group_alias": "humanities"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_gaelic_philosophy"
+"task_alias": "scottish_gaelic philosophy"

@@ -1,0 +1,8 @@
+"dataset_name": "philosophy"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin fealsúnacht.\n\
+  \n"
+"group": "mmlu_irish_humanities"
+"group_alias": "humanities"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_philosophy"
+"task_alias": "irish philosophy"

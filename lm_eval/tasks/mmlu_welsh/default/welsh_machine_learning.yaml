@@ -1,0 +1,8 @@
+"dataset_name": "machine_learning"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am dysgu peirianyddol.\n\
+  \n"
+"group": "mmlu_welsh_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_machine_learning"
+"task_alias": "welsh machine learning"

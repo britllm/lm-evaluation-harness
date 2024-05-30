@@ -1,0 +1,8 @@
+"dataset_name": "high_school_psychology"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin síceolaíocht\
+  \ ardteist.\n\n"
+"group": "mmlu_irish_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_high_school_psychology"
+"task_alias": "irish high school psychology"

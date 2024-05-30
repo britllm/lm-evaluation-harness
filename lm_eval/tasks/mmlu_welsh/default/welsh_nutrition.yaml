@@ -1,0 +1,8 @@
+"dataset_name": "nutrition"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am maeth.\n\
+  \n"
+"group": "mmlu_welsh_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_nutrition"
+"task_alias": "welsh nutrition"

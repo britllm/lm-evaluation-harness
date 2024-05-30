@@ -1,0 +1,8 @@
+"dataset_name": "econometrics"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin eacnamaiméadracht.\n\
+  \n"
+"group": "mmlu_irish_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_econometrics"
+"task_alias": "irish econometrics"

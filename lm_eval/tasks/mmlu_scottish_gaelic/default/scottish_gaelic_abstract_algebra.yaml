@@ -1,0 +1,8 @@
+"dataset_name": "abstract_algebra"
+"description": "Tha na leanas nan ceistean ioma-roghainn (le freagairtean) mu ailseabra\
+  \ abstracta.\n\n"
+"group": "mmlu_scottish_gaelic_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_gaelic_abstract_algebra"
+"task_alias": "scottish_gaelic abstract algebra"

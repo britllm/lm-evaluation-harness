@@ -1,0 +1,8 @@
+"dataset_name": "public_relations"
+"description": "Tha na leanas nan ceistean ioma-roghainn (le freagairtean) mu dàimhean\
+  \ phoblach.\n\n"
+"group": "mmlu_scottish_gaelic_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_gaelic_public_relations"
+"task_alias": "scottish_gaelic public relations"

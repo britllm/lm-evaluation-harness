@@ -1,0 +1,8 @@
+"dataset_name": "marketing"
+"description": "Tha na leanas nan ceistean ioma-roghainn (le freagairtean) mu margaidheachd.\n\
+  \n"
+"group": "mmlu_scottish_gaelic_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_gaelic_marketing"
+"task_alias": "scottish_gaelic marketing"

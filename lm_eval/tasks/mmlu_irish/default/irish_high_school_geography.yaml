@@ -1,0 +1,8 @@
+"dataset_name": "high_school_geography"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin tíreolaíocht\
+  \ ardteist.\n\n"
+"group": "mmlu_irish_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_high_school_geography"
+"task_alias": "irish high school geography"

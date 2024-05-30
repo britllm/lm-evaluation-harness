@@ -1,0 +1,8 @@
+"dataset_name": "machine_learning"
+"description": "Tha na leanas nan ceistean ioma-roghainn (le freagairtean) mu ionnsachadh\
+  \ inneal.\n\n"
+"group": "mmlu_scottish_gaelic_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_gaelic_machine_learning"
+"task_alias": "scottish_gaelic machine learning"

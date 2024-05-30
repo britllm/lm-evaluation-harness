@@ -1,0 +1,8 @@
+"dataset_name": "management"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am rheolaeth.\n\
+  \n"
+"group": "mmlu_welsh_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_management"
+"task_alias": "welsh management"

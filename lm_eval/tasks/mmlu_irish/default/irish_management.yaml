@@ -1,0 +1,8 @@
+"dataset_name": "management"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin bainistíocht.\n\
+  \n"
+"group": "mmlu_irish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_management"
+"task_alias": "irish management"

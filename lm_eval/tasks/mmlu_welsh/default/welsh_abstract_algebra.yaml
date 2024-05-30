@@ -1,0 +1,8 @@
+"dataset_name": "abstract_algebra"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am algebra\
+  \ hanfodol.\n\n"
+"group": "mmlu_welsh_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_abstract_algebra"
+"task_alias": "welsh abstract algebra"

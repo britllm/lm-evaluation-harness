@@ -75,14 +75,6 @@ SUBJECTS = {
 }
 
 
-def get_available_subjects():
-    available_subjects = []
-    with open("partial_subject_list.txt", "r") as f:
-        for line in f.readlines():
-            available_subjects.append(line.strip())
-    return available_subjects
-
-
 def validate_combine_translated_subjects():
 
     raw = list(SUBJECTS.items())
@@ -110,11 +102,6 @@ if __name__ == "__main__":
     args = parse_args()
 
     combined_subjects = validate_combine_translated_subjects()
-    available_subjects = get_available_subjects()
-
-    for key in SUBJECTS.keys():
-        if key not in available_subjects:
-            del combined_subjects[key]
 
     # get filename of base_yaml so we can `"include": ` it in our "other" YAMLs.
     base_yaml_name = os.path.split(args.base_yaml_path)[-1]

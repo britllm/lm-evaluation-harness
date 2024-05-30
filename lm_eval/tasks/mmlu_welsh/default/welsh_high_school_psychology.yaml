@@ -1,0 +1,8 @@
+"dataset_name": "high_school_psychology"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am seicoleg\
+  \ ysgol uwchradd.\n\n"
+"group": "mmlu_welsh_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_high_school_psychology"
+"task_alias": "welsh high school psychology"

@@ -1,0 +1,8 @@
+"dataset_name": "professional_accounting"
+"description": "Tha na leanas nan ceistean ioma-roghainn (le freagairtean) mu cunntasachd\
+  \ proifeiseanta.\n\n"
+"group": "mmlu_scottish_gaelic_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_gaelic_professional_accounting"
+"task_alias": "scottish_gaelic professional accounting"

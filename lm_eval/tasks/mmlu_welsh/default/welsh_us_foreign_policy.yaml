@@ -1,0 +1,8 @@
+"dataset_name": "us_foreign_policy"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am polisïau\
+  \ tramor america.\n\n"
+"group": "mmlu_welsh_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_us_foreign_policy"
+"task_alias": "welsh us foreign policy"

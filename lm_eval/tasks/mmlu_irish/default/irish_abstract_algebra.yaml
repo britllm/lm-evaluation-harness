@@ -1,0 +1,8 @@
+"dataset_name": "abstract_algebra"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin ailgeabar\
+  \ aistritheach.\n\n"
+"group": "mmlu_irish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_abstract_algebra"
+"task_alias": "irish abstract algebra"

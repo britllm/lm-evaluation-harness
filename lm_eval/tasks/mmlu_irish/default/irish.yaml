@@ -2,5 +2,5 @@ group: mmlu_irish
 task:
 - mmlu_irish_stem
 - mmlu_irish_other
-- mmlu_irish_humanities
 - mmlu_irish_social_sciences
+- mmlu_irish_humanities

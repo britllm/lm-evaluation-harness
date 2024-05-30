@@ -1,0 +1,8 @@
+"dataset_name": "professional_accounting"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am cyfrifeg\
+  \ proffesiynol.\n\n"
+"group": "mmlu_welsh_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_professional_accounting"
+"task_alias": "welsh professional accounting"

@@ -1,0 +1,8 @@
+"dataset_name": "global_facts"
+"description": "Tha na leanas nan ceistean ioma-roghainn (le freagairtean) mu fìrinnean\
+  \ cruinneil.\n\n"
+"group": "mmlu_scottish_gaelic_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_gaelic_global_facts"
+"task_alias": "scottish_gaelic global facts"

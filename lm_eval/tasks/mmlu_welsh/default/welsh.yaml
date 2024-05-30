@@ -2,5 +2,5 @@ group: mmlu_welsh
 task:
 - mmlu_welsh_stem
 - mmlu_welsh_other
-- mmlu_welsh_humanities
 - mmlu_welsh_social_sciences
+- mmlu_welsh_humanities

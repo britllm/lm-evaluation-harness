@@ -1,0 +1,8 @@
+"dataset_name": "public_relations"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin caidreamh\
+  \ poiblí.\n\n"
+"group": "mmlu_irish_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_public_relations"
+"task_alias": "irish public relations"

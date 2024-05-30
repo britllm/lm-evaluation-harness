@@ -2,5 +2,5 @@ group: mmlu_scottish_gaelic
 task:
 - mmlu_scottish_gaelic_stem
 - mmlu_scottish_gaelic_other
-- mmlu_scottish_gaelic_humanities
 - mmlu_scottish_gaelic_social_sciences
+- mmlu_scottish_gaelic_humanities

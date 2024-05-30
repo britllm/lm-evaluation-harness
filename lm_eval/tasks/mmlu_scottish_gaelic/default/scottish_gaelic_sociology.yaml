@@ -1,0 +1,8 @@
+"dataset_name": "sociology"
+"description": "Tha na leanas nan ceistean ioma-roghainn (le freagairtean) mu sòiseo-eòlas.\n\
+  \n"
+"group": "mmlu_scottish_gaelic_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_gaelic_sociology"
+"task_alias": "scottish_gaelic sociology"

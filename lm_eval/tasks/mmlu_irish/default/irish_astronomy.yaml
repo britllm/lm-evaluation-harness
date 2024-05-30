@@ -1,0 +1,8 @@
+"dataset_name": "astronomy"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin réalteolaíocht.\n\
+  \n"
+"group": "mmlu_irish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_astronomy"
+"task_alias": "irish astronomy"

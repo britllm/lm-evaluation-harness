@@ -1,0 +1,8 @@
+"dataset_name": "conceptual_physics"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am ffiseg gysyniadol.\n\
+  \n"
+"group": "mmlu_welsh_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_conceptual_physics"
+"task_alias": "welsh conceptual physics"

@@ -1,0 +1,8 @@
+"dataset_name": "us_foreign_policy"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin beartas eachtrach\
+  \ sam.\n\n"
+"group": "mmlu_irish_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_us_foreign_policy"
+"task_alias": "irish us foreign policy"

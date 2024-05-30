@@ -1,0 +1,8 @@
+"dataset_name": "virology"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am firologaeth.\n\
+  \n"
+"group": "mmlu_welsh_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_virology"
+"task_alias": "welsh virology"

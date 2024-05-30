@@ -1,0 +1,8 @@
+"dataset_name": "professional_psychology"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin siceolaíocht\
+  \ gairmiúil.\n\n"
+"group": "mmlu_irish_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_professional_psychology"
+"task_alias": "irish professional psychology"

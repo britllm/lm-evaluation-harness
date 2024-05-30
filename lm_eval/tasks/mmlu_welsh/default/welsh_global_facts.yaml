@@ -1,0 +1,8 @@
+"dataset_name": "global_facts"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am ffeithiau\
+  \ byd-eang.\n\n"
+"group": "mmlu_welsh_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_global_facts"
+"task_alias": "welsh global facts"

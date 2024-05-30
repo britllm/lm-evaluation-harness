@@ -1,0 +1,7 @@
+"dataset_name": "nutrition"
+"description": "Seo a leanas ceisteanna ilroghnacha (le freagraí) faoin cothú.\n\n"
+"group": "mmlu_irish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_irish_nutrition"
+"task_alias": "irish nutrition"

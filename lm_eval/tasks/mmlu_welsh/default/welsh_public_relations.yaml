@@ -1,0 +1,8 @@
+"dataset_name": "public_relations"
+"description": "Mae'r canlynol yn gwestiynau amlddewis (gydag atebion) am cysylltiadau\
+  \ cyhoeddus.\n\n"
+"group": "mmlu_welsh_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_welsh_public_relations"
+"task_alias": "welsh public relations"
