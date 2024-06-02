@@ -1,0 +1,8 @@
+"dataset_name": "abstract_algebra"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe algebrath\
+  \ abstrak.\n\n"
+"group": "mmlu_cornish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_abstract_algebra"
+"task_alias": "cornish abstract algebra"

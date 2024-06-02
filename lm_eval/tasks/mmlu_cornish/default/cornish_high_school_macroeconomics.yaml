@@ -1,0 +1,8 @@
+"dataset_name": "high_school_macroeconomics"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe macrokonomi\
+  \ skoli uwhel.\n\n"
+"group": "mmlu_cornish_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_high_school_macroeconomics"
+"task_alias": "cornish high school macroeconomics"

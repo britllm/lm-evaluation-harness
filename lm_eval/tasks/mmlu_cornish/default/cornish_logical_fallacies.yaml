@@ -1,0 +1,8 @@
+"dataset_name": "logical_fallacies"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe fallyans\
+  \ logek.\n\n"
+"group": "mmlu_cornish_humanities"
+"group_alias": "humanities"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_logical_fallacies"
+"task_alias": "cornish logical fallacies"

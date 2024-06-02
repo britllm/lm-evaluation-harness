@@ -1,0 +1,8 @@
+"dataset_name": "prehistory"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe istorek.\n\
+  \n"
+"group": "mmlu_cornish_humanities"
+"group_alias": "humanities"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_prehistory"
+"task_alias": "cornish prehistory"

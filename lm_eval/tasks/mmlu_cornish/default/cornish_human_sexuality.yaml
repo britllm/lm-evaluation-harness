@@ -1,0 +1,8 @@
+"dataset_name": "human_sexuality"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe rywol\
+  \ dedel.\n\n"
+"group": "mmlu_cornish_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_human_sexuality"
+"task_alias": "cornish human sexuality"

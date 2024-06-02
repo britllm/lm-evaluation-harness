@@ -1,0 +1,8 @@
+"dataset_name": "public_relations"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe kesunyansow\
+  \ poblek.\n\n"
+"group": "mmlu_cornish_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_public_relations"
+"task_alias": "cornish public relations"

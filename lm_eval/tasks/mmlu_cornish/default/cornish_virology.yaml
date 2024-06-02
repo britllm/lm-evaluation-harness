@@ -1,0 +1,8 @@
+"dataset_name": "virology"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe virologi.\n\
+  \n"
+"group": "mmlu_cornish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_virology"
+"task_alias": "cornish virology"

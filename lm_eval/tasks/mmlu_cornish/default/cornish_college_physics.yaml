@@ -1,0 +1,8 @@
+"dataset_name": "college_physics"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe fysik\
+  \ kolji.\n\n"
+"group": "mmlu_cornish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_college_physics"
+"task_alias": "cornish college physics"

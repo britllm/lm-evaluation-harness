@@ -1,0 +1,8 @@
+"dataset_name": "college_computer_science"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe scyans\
+  \ kompuytres kolji.\n\n"
+"group": "mmlu_cornish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_college_computer_science"
+"task_alias": "cornish college computer science"

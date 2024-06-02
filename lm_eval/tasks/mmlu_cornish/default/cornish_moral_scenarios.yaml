@@ -1,0 +1,8 @@
+"dataset_name": "moral_scenarios"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe senaryow\
+  \ morrek.\n\n"
+"group": "mmlu_cornish_humanities"
+"group_alias": "humanities"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_moral_scenarios"
+"task_alias": "cornish moral scenarios"

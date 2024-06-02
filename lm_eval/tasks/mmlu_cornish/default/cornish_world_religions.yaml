@@ -1,0 +1,8 @@
+"dataset_name": "world_religions"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe credhonyon\
+  \ bedh.\n\n"
+"group": "mmlu_cornish_humanities"
+"group_alias": "humanities"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_world_religions"
+"task_alias": "cornish world religions"

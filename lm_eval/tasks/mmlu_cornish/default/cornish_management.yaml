@@ -1,0 +1,8 @@
+"dataset_name": "management"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe menegyans.\n\
+  \n"
+"group": "mmlu_cornish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_management"
+"task_alias": "cornish management"

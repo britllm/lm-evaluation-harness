@@ -1,0 +1,8 @@
+"dataset_name": "computer_security"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe diogelieth\
+  \ kompuytres.\n\n"
+"group": "mmlu_cornish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_computer_security"
+"task_alias": "cornish computer security"

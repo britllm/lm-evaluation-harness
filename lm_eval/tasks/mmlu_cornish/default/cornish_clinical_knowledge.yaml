@@ -1,0 +1,8 @@
+"dataset_name": "clinical_knowledge"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe knowans\
+  \ clinyek.\n\n"
+"group": "mmlu_cornish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_clinical_knowledge"
+"task_alias": "cornish clinical knowledge"

@@ -1,0 +1,8 @@
+"dataset_name": "elementary_mathematics"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe mathemateg\
+  \ elymentari.\n\n"
+"group": "mmlu_cornish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_elementary_mathematics"
+"task_alias": "cornish elementary mathematics"

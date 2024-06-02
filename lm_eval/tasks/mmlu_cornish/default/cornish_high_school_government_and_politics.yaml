@@ -1,0 +1,8 @@
+"dataset_name": "high_school_government_and_politics"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe govynnans\
+  \ ha politik skoli uwhel.\n\n"
+"group": "mmlu_cornish_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_high_school_government_and_politics"
+"task_alias": "cornish high school government and politics"

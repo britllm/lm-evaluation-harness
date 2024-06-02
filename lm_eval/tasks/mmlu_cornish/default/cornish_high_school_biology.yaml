@@ -1,0 +1,8 @@
+"dataset_name": "high_school_biology"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe biologi\
+  \ skoli uwhel.\n\n"
+"group": "mmlu_cornish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_high_school_biology"
+"task_alias": "cornish high school biology"
