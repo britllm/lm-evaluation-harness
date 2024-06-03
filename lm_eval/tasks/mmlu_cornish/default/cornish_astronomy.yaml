@@ -1,0 +1,8 @@
+"dataset_name": "astronomy"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe steronieth.\n\
+  \n"
+"group": "mmlu_cornish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_astronomy"
+"task_alias": "cornish astronomy"

@@ -1,0 +1,8 @@
+"dataset_name": "professional_medicine"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe medhegneth\
+  \ profesyonel.\n\n"
+"group": "mmlu_cornish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_professional_medicine"
+"task_alias": "cornish professional medicine"

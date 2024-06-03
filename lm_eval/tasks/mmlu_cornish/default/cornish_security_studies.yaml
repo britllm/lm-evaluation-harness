@@ -1,0 +1,8 @@
+"dataset_name": "security_studies"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe studiow\
+  \ diogel.\n\n"
+"group": "mmlu_cornish_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_security_studies"
+"task_alias": "cornish security studies"

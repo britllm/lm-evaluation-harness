@@ -1,0 +1,8 @@
+"dataset_name": "medical_genetics"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe genetek\
+  \ medhegneth.\n\n"
+"group": "mmlu_cornish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_medical_genetics"
+"task_alias": "cornish medical genetics"

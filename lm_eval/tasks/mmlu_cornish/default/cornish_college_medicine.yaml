@@ -1,0 +1,8 @@
+"dataset_name": "college_medicine"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe medhegneth\
+  \ kolji.\n\n"
+"group": "mmlu_cornish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_college_medicine"
+"task_alias": "cornish college medicine"

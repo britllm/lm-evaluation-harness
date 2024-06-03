@@ -1,0 +1,8 @@
+"dataset_name": "moral_disputes"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe kowldeythow\
+  \ morrek.\n\n"
+"group": "mmlu_cornish_humanities"
+"group_alias": "humanities"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_moral_disputes"
+"task_alias": "cornish moral disputes"

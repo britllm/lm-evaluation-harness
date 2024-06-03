@@ -1,0 +1,8 @@
+"dataset_name": "philosophy"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe filosofi.\n\
+  \n"
+"group": "mmlu_cornish_humanities"
+"group_alias": "humanities"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_philosophy"
+"task_alias": "cornish philosophy"

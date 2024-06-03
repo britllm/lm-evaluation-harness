@@ -1,0 +1,6 @@
+group: mmlu_cornish
+task:
+- mmlu_cornish_stem
+- mmlu_cornish_other
+- mmlu_cornish_social_sciences
+- mmlu_cornish_humanities

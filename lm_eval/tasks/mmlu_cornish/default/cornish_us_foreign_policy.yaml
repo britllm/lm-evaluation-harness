@@ -1,0 +1,8 @@
+"dataset_name": "us_foreign_policy"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe polici\
+  \ lestrallys sadnamerik.\n\n"
+"group": "mmlu_cornish_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_us_foreign_policy"
+"task_alias": "cornish us foreign policy"

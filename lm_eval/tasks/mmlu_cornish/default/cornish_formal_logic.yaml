@@ -1,0 +1,8 @@
+"dataset_name": "formal_logic"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe logik\
+  \ formel.\n\n"
+"group": "mmlu_cornish_humanities"
+"group_alias": "humanities"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_formal_logic"
+"task_alias": "cornish formal logic"

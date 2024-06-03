@@ -1,0 +1,8 @@
+"dataset_name": "nutrition"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe negdhow.\n\
+  \n"
+"group": "mmlu_cornish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_nutrition"
+"task_alias": "cornish nutrition"

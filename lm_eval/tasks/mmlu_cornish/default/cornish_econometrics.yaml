@@ -1,0 +1,8 @@
+"dataset_name": "econometrics"
+"description": "The anserghyans a sy'yn gorhemmyn (gans gorthugherow) a-dro dhe ekonometrek.\n\
+  \n"
+"group": "mmlu_cornish_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_cornish_econometrics"
+"task_alias": "cornish econometrics"
