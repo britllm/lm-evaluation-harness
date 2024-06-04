@@ -1,0 +1,3 @@
+include: arc_irish_easy.yaml
+task: arc_irish_challenge
+dataset_name: ARC-Challenge
