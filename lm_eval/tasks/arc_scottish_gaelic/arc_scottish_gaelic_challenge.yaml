@@ -1,0 +1,3 @@
+include: arc_scottish_gaelic_easy.yaml
+task: arc_scottish_gaelic_challenge
+dataset_name: ARC-Challenge
