@@ -1,5 +1,5 @@
 task: winogrande_cornish
-dataset_path: TheRootOf3/winogrande_cornish
+dataset_path: britllm/winogrande_cornish
 dataset_name: winogrande_xl
 output_type: multiple_choice
 training_split: train
