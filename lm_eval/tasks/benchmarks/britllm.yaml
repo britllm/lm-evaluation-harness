@@ -1,0 +1,15 @@
+group: britllm
+group_alias: British LLM Leaderboard
+task:
+  - task: arc_irish_easy
+    num_fewshot: 5
+  - task: arc_welsh_easy
+    num_fewshot: 5
+  - task: arc_scottish_gaelic_easy
+    num_fewshot: 5
+  - task: piqa_irish
+    num_fewshot: 5
+  - task: piqa_welsh
+    num_fewshot: 5
+  - task: piqa_scottish_gaelic
+    num_fewshot: 5
