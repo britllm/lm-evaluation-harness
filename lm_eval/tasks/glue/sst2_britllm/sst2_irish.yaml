@@ -1,0 +1,13 @@
+group: glue_britllm
+task: sst2_britllm_irish
+dataset_path: britllm/sst2_irish
+output_type: multiple_choice
+training_split: train
+validation_split: validation
+doc_to_text: "{{sentence}}\nQuestion: Is this sentence positive or negative?\nAnswer:"
+doc_to_target: label
+doc_to_choice: ["negative", "positive"]
+metric_list:
+  - metric: acc
+metadata:
+  version: 1.0
