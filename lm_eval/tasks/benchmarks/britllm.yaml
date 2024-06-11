@@ -10,6 +10,9 @@ task:
   - task: arc_scottish_gaelic_easy
     fewshot_split: train
     num_fewshot: 5
+  - task: arc_scots_easy
+    fewshot_split: train
+    num_fewshot: 5
   - task: piqa_irish
     fewshot_split: train
     num_fewshot: 5
@@ -17,5 +20,8 @@ task:
     fewshot_split: train
     num_fewshot: 5
   - task: piqa_scottish_gaelic
+    fewshot_split: train
+    num_fewshot: 5
+  - task: piqa_scots
     fewshot_split: train
     num_fewshot: 5
