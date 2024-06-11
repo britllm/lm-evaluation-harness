@@ -1,0 +1,3 @@
+include: arc_scots_easy.yaml
+task: arc_scots_challenge
+dataset_name: ARC-Challenge
