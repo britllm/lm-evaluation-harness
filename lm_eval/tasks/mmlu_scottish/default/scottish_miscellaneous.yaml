@@ -1,0 +1,8 @@
+"dataset_name": "miscellaneous"
+"description": "The follaein are multiple choice questions (wi answers) aboot miscellaneous.\n\
+  \n"
+"group": "mmlu_scottish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_miscellaneous"
+"task_alias": "scottish miscellaneous"

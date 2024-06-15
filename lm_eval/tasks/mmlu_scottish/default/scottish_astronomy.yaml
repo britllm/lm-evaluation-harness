@@ -1,0 +1,8 @@
+"dataset_name": "astronomy"
+"description": "The follaein are multiple choice questions (wi answers) aboot astronomie.\n\
+  \n"
+"group": "mmlu_scottish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_astronomy"
+"task_alias": "scottish astronomy"

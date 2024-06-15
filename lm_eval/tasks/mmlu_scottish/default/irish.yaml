@@ -1,0 +1,6 @@
+group: mmlu_scottish
+task:
+- mmlu_scottish_stem
+- mmlu_scottish_other
+- mmlu_scottish_social_sciences
+- mmlu_scottish_humanities

@@ -1,0 +1,8 @@
+"dataset_name": "professional_medicine"
+"description": "The follaein are multiple choice questions (wi answers) aboot professional\
+  \ medicine.\n\n"
+"group": "mmlu_scottish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_professional_medicine"
+"task_alias": "scottish professional medicine"

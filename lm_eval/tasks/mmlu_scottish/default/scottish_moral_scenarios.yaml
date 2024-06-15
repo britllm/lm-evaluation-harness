@@ -1,0 +1,8 @@
+"dataset_name": "moral_scenarios"
+"description": "The follaein are multiple choice questions (wi answers) aboot moral\
+  \ scenarios.\n\n"
+"group": "mmlu_scottish_humanities"
+"group_alias": "humanities"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_moral_scenarios"
+"task_alias": "scottish moral scenarios"

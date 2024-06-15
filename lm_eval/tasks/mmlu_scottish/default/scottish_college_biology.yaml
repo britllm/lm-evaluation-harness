@@ -1,0 +1,8 @@
+"dataset_name": "college_biology"
+"description": "The follaein are multiple choice questions (wi answers) aboot college\
+  \ biology.\n\n"
+"group": "mmlu_scottish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_college_biology"
+"task_alias": "scottish college biology"

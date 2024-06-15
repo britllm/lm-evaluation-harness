@@ -1,0 +1,8 @@
+"dataset_name": "philosophy"
+"description": "The follaein are multiple choice questions (wi answers) aboot philosophy.\n\
+  \n"
+"group": "mmlu_scottish_humanities"
+"group_alias": "humanities"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_philosophy"
+"task_alias": "scottish philosophy"

@@ -1,0 +1,8 @@
+"dataset_name": "global_facts"
+"description": "The follaein are multiple choice questions (wi answers) aboot global\
+  \ facts.\n\n"
+"group": "mmlu_scottish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_global_facts"
+"task_alias": "scottish global facts"

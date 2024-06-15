@@ -1,0 +1,8 @@
+"dataset_name": "sociology"
+"description": "The follaein are multiple choice questions (wi answers) aboot sociology.\n\
+  \n"
+"group": "mmlu_scottish_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_sociology"
+"task_alias": "scottish sociology"

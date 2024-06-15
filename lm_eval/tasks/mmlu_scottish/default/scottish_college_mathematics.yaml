@@ -1,0 +1,8 @@
+"dataset_name": "college_mathematics"
+"description": "The follaein are multiple choice questions (wi answers) aboot college\
+  \ mathematics.\n\n"
+"group": "mmlu_scottish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_college_mathematics"
+"task_alias": "scottish college mathematics"

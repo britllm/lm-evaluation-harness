@@ -1,0 +1,8 @@
+"dataset_name": "management"
+"description": "The follaein are multiple choice questions (wi answers) aboot management.\n\
+  \n"
+"group": "mmlu_scottish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_management"
+"task_alias": "scottish management"

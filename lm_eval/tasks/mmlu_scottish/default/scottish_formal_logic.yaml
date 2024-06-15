@@ -1,0 +1,8 @@
+"dataset_name": "formal_logic"
+"description": "The follaein are multiple choice questions (wi answers) aboot formal\
+  \ logic.\n\n"
+"group": "mmlu_scottish_humanities"
+"group_alias": "humanities"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_formal_logic"
+"task_alias": "scottish formal logic"

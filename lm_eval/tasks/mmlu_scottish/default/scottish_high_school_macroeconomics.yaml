@@ -1,0 +1,8 @@
+"dataset_name": "high_school_macroeconomics"
+"description": "The follaein are multiple choice questions (wi answers) aboot high\
+  \ school macroeconomics.\n\n"
+"group": "mmlu_scottish_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_high_school_macroeconomics"
+"task_alias": "scottish high school macroeconomics"

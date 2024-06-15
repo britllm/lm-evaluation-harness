@@ -1,0 +1,8 @@
+"dataset_name": "college_medicine"
+"description": "The follaein are multiple choice questions (wi answers) aboot college\
+  \ medicine.\n\n"
+"group": "mmlu_scottish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_college_medicine"
+"task_alias": "scottish college medicine"

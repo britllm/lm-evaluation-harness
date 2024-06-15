@@ -1,0 +1,8 @@
+"dataset_name": "econometrics"
+"description": "The follaein are multiple choice questions (wi answers) aboot econometrics.\n\
+  \n"
+"group": "mmlu_scottish_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_econometrics"
+"task_alias": "scottish econometrics"
