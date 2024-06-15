@@ -1,0 +1,8 @@
+"dataset_name": "medical_genetics"
+"description": "The follaein are multiple choice questions (wi answers) aboot medical\
+  \ genetics.\n\n"
+"group": "mmlu_scottish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_medical_genetics"
+"task_alias": "scottish medical genetics"

@@ -1,0 +1,8 @@
+"dataset_name": "nutrition"
+"description": "The follaein are multiple choice questions (wi answers) aboot nutrition.\n\
+  \n"
+"group": "mmlu_scottish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_nutrition"
+"task_alias": "scottish nutrition"

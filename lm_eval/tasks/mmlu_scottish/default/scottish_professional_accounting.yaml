@@ -1,0 +1,8 @@
+"dataset_name": "professional_accounting"
+"description": "The follaein are multiple choice questions (wi answers) aboot professional\
+  \ accounting.\n\n"
+"group": "mmlu_scottish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_professional_accounting"
+"task_alias": "scottish professional accounting"

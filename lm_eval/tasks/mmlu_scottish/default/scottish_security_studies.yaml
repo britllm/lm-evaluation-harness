@@ -1,0 +1,8 @@
+"dataset_name": "security_studies"
+"description": "The follaein are multiple choice questions (wi answers) aboot security\
+  \ studies.\n\n"
+"group": "mmlu_scottish_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_security_studies"
+"task_alias": "scottish security studies"

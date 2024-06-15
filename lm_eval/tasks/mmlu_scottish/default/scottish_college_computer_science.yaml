@@ -1,0 +1,8 @@
+"dataset_name": "college_computer_science"
+"description": "The follaein are multiple choice questions (wi answers) aboot college\
+  \ computer science.\n\n"
+"group": "mmlu_scottish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_college_computer_science"
+"task_alias": "scottish college computer science"

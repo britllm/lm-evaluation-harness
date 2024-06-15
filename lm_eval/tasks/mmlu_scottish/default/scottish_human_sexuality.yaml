@@ -1,0 +1,8 @@
+"dataset_name": "human_sexuality"
+"description": "The follaein are multiple choice questions (wi answers) aboot human\
+  \ sexuality.\n\n"
+"group": "mmlu_scottish_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_human_sexuality"
+"task_alias": "scottish human sexuality"

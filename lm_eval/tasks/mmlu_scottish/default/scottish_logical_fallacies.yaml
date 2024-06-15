@@ -1,0 +1,8 @@
+"dataset_name": "logical_fallacies"
+"description": "The follaein are multiple choice questions (wi answers) aboot logical\
+  \ fallacies.\n\n"
+"group": "mmlu_scottish_humanities"
+"group_alias": "humanities"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_logical_fallacies"
+"task_alias": "scottish logical fallacies"

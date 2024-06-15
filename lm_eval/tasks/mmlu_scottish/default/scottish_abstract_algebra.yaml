@@ -1,0 +1,8 @@
+"dataset_name": "abstract_algebra"
+"description": "The follaein are multiple choice questions (wi answers) aboot abstrak\
+  \ algebra.\n\n"
+"group": "mmlu_scottish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_abstract_algebra"
+"task_alias": "scottish abstract algebra"

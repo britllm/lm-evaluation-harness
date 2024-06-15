@@ -1,0 +1,8 @@
+"dataset_name": "elementary_mathematics"
+"description": "The follaein are multiple choice questions (wi answers) aboot elementary\
+  \ mathematics.\n\n"
+"group": "mmlu_scottish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_elementary_mathematics"
+"task_alias": "scottish elementary mathematics"

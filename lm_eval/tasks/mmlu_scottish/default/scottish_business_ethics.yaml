@@ -1,0 +1,8 @@
+"dataset_name": "business_ethics"
+"description": "The follaein are multiple choice questions (wi answers) aboot business\
+  \ ethics.\n\n"
+"group": "mmlu_scottish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_business_ethics"
+"task_alias": "scottish business ethics"

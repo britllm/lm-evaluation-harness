@@ -1,0 +1,8 @@
+"dataset_name": "high_school_computer_science"
+"description": "The follaein are multiple choice questions (wi answers) aboot high\
+  \ school computer science.\n\n"
+"group": "mmlu_scottish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_high_school_computer_science"
+"task_alias": "scottish high school computer science"

@@ -1,0 +1,8 @@
+"dataset_name": "computer_security"
+"description": "The follaein are multiple choice questions (wi answers) aboot computer\
+  \ security.\n\n"
+"group": "mmlu_scottish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_computer_security"
+"task_alias": "scottish computer security"

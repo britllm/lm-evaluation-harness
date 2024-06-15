@@ -1,0 +1,8 @@
+"dataset_name": "virology"
+"description": "The follaein are multiple choice questions (wi answers) aboot virology.\n\
+  \n"
+"group": "mmlu_scottish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_virology"
+"task_alias": "scottish virology"

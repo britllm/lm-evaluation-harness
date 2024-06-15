@@ -1,0 +1,8 @@
+"dataset_name": "us_foreign_policy"
+"description": "The follaein are multiple choice questions (wi answers) aboot us foreign\
+  \ policy.\n\n"
+"group": "mmlu_scottish_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_us_foreign_policy"
+"task_alias": "scottish us foreign policy"

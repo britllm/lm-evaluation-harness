@@ -1,0 +1,8 @@
+"dataset_name": "professional_psychology"
+"description": "The follaein are multiple choice questions (wi answers) aboot professional\
+  \ psychology.\n\n"
+"group": "mmlu_scottish_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_professional_psychology"
+"task_alias": "scottish professional psychology"

@@ -1,0 +1,8 @@
+"dataset_name": "electrical_engineering"
+"description": "The follaein are multiple choice questions (wi answers) aboot electrical\
+  \ engineering.\n\n"
+"group": "mmlu_scottish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_electrical_engineering"
+"task_alias": "scottish electrical engineering"

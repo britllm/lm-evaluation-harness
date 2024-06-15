@@ -1,0 +1,8 @@
+"dataset_name": "clinical_knowledge"
+"description": "The follaein are multiple choice questions (wi answers) aboot clinical\
+  \ knowledge.\n\n"
+"group": "mmlu_scottish_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_clinical_knowledge"
+"task_alias": "scottish clinical knowledge"

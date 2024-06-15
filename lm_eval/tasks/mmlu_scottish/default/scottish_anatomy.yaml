@@ -1,0 +1,8 @@
+"dataset_name": "anatomy"
+"description": "The follaein are multiple choice questions (wi answers) aboot anatomee.\n\
+  \n"
+"group": "mmlu_scottish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_anatomy"
+"task_alias": "scottish anatomy"

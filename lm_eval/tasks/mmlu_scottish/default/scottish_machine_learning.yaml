@@ -1,0 +1,8 @@
+"dataset_name": "machine_learning"
+"description": "The follaein are multiple choice questions (wi answers) aboot machine\
+  \ learning.\n\n"
+"group": "mmlu_scottish_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "mmlu_scottish_machine_learning"
+"task_alias": "scottish machine learning"
