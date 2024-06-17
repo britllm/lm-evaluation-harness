@@ -1,7 +1,7 @@
 group:
   - arc_welsh
 task: arc_welsh_easy
-dataset_path: jwang214/arc_welsh
+dataset_path: britllm/arc_welsh
 dataset_name: ARC-Easy
 output_type: multiple_choice
 training_split: train
