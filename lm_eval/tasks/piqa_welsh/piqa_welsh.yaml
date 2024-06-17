@@ -1,5 +1,5 @@
 task: piqa_welsh
-dataset_path: jwang214/piqa_welsh
+dataset_path: britllm/piqa_welsh
 dataset_name: null
 output_type: multiple_choice
 training_split: train

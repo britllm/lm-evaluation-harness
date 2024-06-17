@@ -1,5 +1,5 @@
 task: piqa_irish
-dataset_path: jwang214/piqa_irish
+dataset_path: britllm/piqa_irish
 dataset_name: null
 output_type: multiple_choice
 training_split: train
