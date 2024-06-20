@@ -25,3 +25,15 @@ task:
   - task: piqa_scots
     fewshot_split: train
     num_fewshot: 5
+  - task: xnli_brit_cy
+    fewshot_split: train
+    num_fewshot: 0
+  - task: xnli_brit_ga
+    fewshot_split: train
+    num_fewshot: 0
+  - task: xnli_brit_gd
+    fewshot_split: train
+    num_fewshot: 0
+  - task: xnli_brit_sco
+    fewshot_split: train
+    num_fewshot: 0
