@@ -1,4 +1,4 @@
-group:
+tag:
   - arc_welsh
 task: arc_welsh_easy
 dataset_path: britllm/arc_welsh

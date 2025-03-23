@@ -1,7 +1,7 @@
 # This file will be included in the generated language-specific task configs.
 # It doesn't have a yaml file extension as it is not meant to be imported directly
 # by the harness.
-group: xnli_brit
+tag: xnli_brit
 task: null
 dataset_path: britllm/xnli_brit
 dataset_name: null

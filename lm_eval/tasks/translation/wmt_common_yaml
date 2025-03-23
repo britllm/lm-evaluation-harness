@@ -5,8 +5,6 @@ fewshot_split: validation
 test_split: test
 metric_list:
   - metric: bleu
-  - metric: ter
-  - metric: chrf
 generation_kwargs:
   until:
     - "\n"
